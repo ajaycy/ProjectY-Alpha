@@ -1,0 +1,13 @@
+# OSINT Challenge: ProjectX-Alpha
+
+A careless developer has accidentally left sensitive information in this repository. 
+Your mission is to find:
+1. The API key used in this project.
+2. The developer's password hidden in older commits.
+3. The final flag (a Base64-encoded string).
+
+## Rules
+- Do not brute-force anything.
+- All information is publicly available.
+
+Good luck!
