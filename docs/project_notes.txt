@@ -4,7 +4,7 @@ A careless developer has accidentally left sensitive information in this reposit
 Your mission is to find:
 1. The API key used in this project.
 2. The developer's password hidden in older commits.
-3. The final flag (a Base64-encoded string).
+3. The final flag (a just a bunch of symbols hmm).
 
 ## Rules
 - Do not brute-force anything.
