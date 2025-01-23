@@ -6,5 +6,6 @@ def greet():
 if __name__ == "__main__":
     print(greet())
    
-    NjQgc3RyaW5nOiIsIGUpCg=="
+    
 #Just a hint or is it an Diversion or are u that weak to find it ?
+c3VwZXJzZWNyZXRwYXNzd29yZA==
